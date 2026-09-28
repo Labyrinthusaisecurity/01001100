@@ -3,7 +3,8 @@ Description of Labyrinthus Platform
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/262699370?s=200&v=4" width="140" alt="Labyrinthus" />
+<img width="500" height="145" alt="Labyrinthus 2D-1 large" src="https://github.com/user-attachments/assets/59d9afda-db0d-487b-b5ef-4c3a8089e9c6" />
+
 
 # Labyrinthus
 
