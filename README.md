@@ -22,7 +22,7 @@ Protecting organizations through proactive security assessment, threat detection
 
 ## Company
 
-Labyrinthus is a cybersecurity firm providing security assessment, monitoring, and advisory services to organizations that need to identify and close gaps in their attack surface before adversaries find them.
+Labyrinthus is a cybersecurity firm providing security assessment, monitoring, and advisory services to organizations that need to identify and close gaps in their attack surface before adversaries find them..
 
 ## Services
 
